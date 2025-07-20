@@ -1,9 +1,9 @@
-packs:
+packs:codeql-javascript-queries:custom-quries
   # Use these packs for JavaScript analysis
-  javascript:
+  javascript:languages
     - scope/js-pack1
     - scope/js-pack2
   # Use these packs for Java analysis
-  java:
+  java:languages
     - scope/java-pack1
     - scope/java-pack2@v1.0.0
